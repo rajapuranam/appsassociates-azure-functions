@@ -1,2 +1,2 @@
-#Azure Functions Code Snippets
+# Azure Functions Code Snippets
 ---
