@@ -1,1 +1,2 @@
-# appsassociates-azure-functions
+#Azure Functions Code Snippets
+---

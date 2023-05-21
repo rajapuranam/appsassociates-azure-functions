@@ -1,0 +1,8 @@
+{
+    "secret_name": "KillBill-Pandey",
+    "report_path": "/Custom/Demo/ADW BI",
+    "report_name": "SALES_ANALYSIS",
+    "report_format": "rtf",
+    "bronze_folder_name": "sales_analysis",
+    "parameter_list": "NA"
+}
